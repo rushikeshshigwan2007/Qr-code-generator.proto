@@ -1,10 +1,15 @@
 # QR Code Generator
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/QR-Code-Generator/blob/main/QR_Code_Generator.ipynb)
+
 A simple QR Code Generator built using Python in Google Colab.
 
-## Description
+## Features
 
-This project generates a QR code from a URL entered by the user and saves it as a PNG image.
+- Generate a QR code from any URL.
+- Save the generated QR code as a PNG image.
+- Beginner-friendly and easy to use.
+- Runs directly in Google Colab.
 
 ## Requirements
 
@@ -14,28 +19,35 @@ This project generates a QR code from a URL entered by the user and saves it as 
 
 ## Installation
 
-Install the required library:
-
 ```python
 !pip install qrcode
 ```
 
 ## How to Run
 
-1. Open the notebook in Google Colab.
+1. Open the notebook in Google Colab using the button above.
 2. Run the installation cell.
-3. Run the program.
-4. Enter a URL when prompted.
-5. The QR code will be saved as `qrcode.png`.
+3. Run the code cell.
+4. Enter the URL when prompted.
+5. The QR code will be generated and saved as `qrcode.png`.
 
 ## Output
 
-The generated QR code is saved as:
+The generated QR code is saved in:
 
 ```
 /content/qrcode.png
 ```
 
+## Project Structure
+
+```
+QR-Code-Generator/
+│── QR_Code_Generator.ipynb
+│── README.md
+│── requirements.txt
+```
+
 ## Author
 
-Rushikesh Shigwan
+**Rushikesh Shigwan**
