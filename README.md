@@ -1,6 +1,6 @@
 # QR Code Generator
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/QR-Code-Generator/blob/main/QR_Code_Generator.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rushikeshshigwan2007/QR-Code-Generator/blob/main/QR_Code_Generator.ipynb)
 
 A simple QR Code Generator built using Python in Google Colab.
 
